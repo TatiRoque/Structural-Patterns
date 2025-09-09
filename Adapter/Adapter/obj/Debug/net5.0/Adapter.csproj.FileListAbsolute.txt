@@ -1,0 +1,16 @@
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.exe
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.deps.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.pdb
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.sourcelink.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\refint\Adapter.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.pdb
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Adapter\Adapter\obj\Debug\net5.0\ref\Adapter.dll
