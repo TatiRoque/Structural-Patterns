@@ -15,6 +15,11 @@ namespace Adapter
         }
         public void Print(string data)
         {
+            if (data.Length > 100)
+            {
+                data = data.Substring(0, 100); 
+                Console.WriteLine("Text cut to 100 characters.");
+            }
             _legacy.PrintTicket(data);
         }
 

@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Compile Include="C:\Users\Maia\Desktop\2°año TDS\Programación\Structural-Patterns\Adapter.cs" Link="Adapter.cs" />
+    <Compile Include="C:\Users\Tatiana\Desktop\2°año TDS\Programacion\Structural-Patterns\Adapter\Program.cs" Link="Program.cs" />
   </ItemGroup>
 
 </Project>
